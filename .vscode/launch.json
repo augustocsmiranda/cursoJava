@@ -1,0 +1,213 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch aula103ManipularData",
+            "request": "launch",
+            "mainClass": "aplication.aula103ManipularData",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula102Data",
+            "request": "launch",
+            "mainClass": "aplication.aula102Data",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch somaMatriz",
+            "request": "launch",
+            "mainClass": "aplication.somaMatriz",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula100Exercicio",
+            "request": "launch",
+            "mainClass": "aplication.aula100Exercicio",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula99Exercicio",
+            "request": "launch",
+            "mainClass": "aplication.aula99Exercicio",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula96Exercicio",
+            "request": "launch",
+            "mainClass": "aplication.aula96Exercicio",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula95Lista",
+            "request": "launch",
+            "mainClass": "aplication.aula95Lista",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioAula91",
+            "request": "launch",
+            "mainClass": "aplication.exercicioAula91",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula90Vetores",
+            "request": "launch",
+            "mainClass": "aplication.aula90Vetores",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula89Vetores",
+            "request": "launch",
+            "mainClass": "aplication.aula89Vetores",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula82Exercicio",
+            "request": "launch",
+            "mainClass": "aplication.aula82Exercicio",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula79Encapsulamento",
+            "request": "launch",
+            "mainClass": "aplication.aula79Encapsulamento",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula67IntroPOO",
+            "request": "launch",
+            "mainClass": "aplication.aula67IntroPOO",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula64IntroPOOCont",
+            "request": "launch",
+            "mainClass": "aplication.aula64IntroPOOCont",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula64IntroPOO",
+            "request": "launch",
+            "mainClass": "aplication.aula64IntroPOO",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch funcoes61",
+            "request": "launch",
+            "mainClass": "funcoes61",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aulaPara50",
+            "request": "launch",
+            "mainClass": "aulaPara50",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch aulaWhile45",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "aulaWhile45",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchAula39",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "switchAula39",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioAula37",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "exercicioAula37",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio35",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "exercicio35",
+            "projectName": "CursoJava_54da0d90"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "mainClass": "App",
+            "projectName": "CursoJava_54da0d90"
+        }
+    ]
+}
