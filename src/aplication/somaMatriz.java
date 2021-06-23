@@ -26,7 +26,7 @@ public class somaMatriz {
 
         int[][] matB= new int[m][n];
 
-        System.out.println("Informe a Segunda Tabela ["+ m + " x "+ n+ "].");
+        System.out.println("Informe a Segunda tabela ["+ m + " x "+ n+ "].");
 
         for(int i = 0; i < matB.length; i++){
             for(int j = 0; j < matB[i].length; j++){
